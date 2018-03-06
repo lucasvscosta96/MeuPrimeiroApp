@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Criação da estrutua da tela de exibição da mensagem -->
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.qbex.meuprimeiroapp.DisplayMessageActivity"
+    android:id="@+id/activity_display_message">
+
+</android.support.constraint.ConstraintLayout>
